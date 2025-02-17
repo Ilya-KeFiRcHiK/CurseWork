@@ -25,8 +25,8 @@
 }
 
 .block-left{
-    width: 300px;
-    height: 1700px;
+    width: 350px;
+    height: 2062px;
     font-size: 20px;
     display: flex;
     background-color: #dfdfdf;
@@ -40,6 +40,11 @@
     background-color: #053cb4;
     padding-top: 20px;
 
+}
+
+.code1{
+    border: 2px solid #053cb4;
+    background-color: #79BCE5;
 }
 
 .header-logo img{
@@ -106,10 +111,14 @@ p{
     background-color: #79BCE5;
 }
 
-
 .info-p-1{
     color: black;
     margin-top: -30px;
+}
+
+p{
+    text-indent: 50px;
+    text-align: justify;
 }
 
 .block-info-p{
@@ -159,7 +168,7 @@ p{
 
 .telegram{
     margin-top: 50px;
-    margin-left: 125px;
+    margin-left: 55px;
 }
 
 .zvonok{
